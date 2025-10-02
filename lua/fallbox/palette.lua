@@ -1,7 +1,7 @@
 local M = {}
 
 M.colors = {
-	bg = "#1D2021", -- fondo
+	bg = "#1D2021", -- Eerie Black
 	amber = "#FABD2F",
 	old_gold = "#B8BB26",
 	orange = "#FE8019",
